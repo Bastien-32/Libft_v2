@@ -6,7 +6,7 @@
 /*   By: badal-la <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/06 10:22:07 by badal-la          #+#    #+#             */
-/*   Updated: 2024/11/18 09:54:08 by badal-la         ###   ########.fr       */
+/*   Updated: 2025/03/26 16:04:43 by badal-la         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,9 @@
 
 # include <unistd.h>
 # include <stdlib.h>
+
+# include "get_next_line_bonus.h"
+# include "ft_printf.h"
 
 typedef struct s_list
 {
